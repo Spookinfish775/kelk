@@ -1,0 +1,115 @@
+{
+    "appHeader": {
+        "appMenu": {
+            "aboutCompany": "About company",
+            "services": "Services",
+            "application": "Application",
+            "contacts": "Contacts"
+        },
+        "contactUs": "Contact us",
+        "contactUsNumber": "+993 12 754177",
+        "mailUs": "Write to us",
+        "langList": {
+            "title": "Choose language",
+            "en": "English",
+            "ru": "Русский",
+            "tm": "Türkmen"
+        }
+    },
+    "greeting": {
+        "title": "ES “Dana Pikir” is one of the leaders in the cargo transportation market of Turkmenistan. The company's mission has become competitiveness in pricing and quality of services provided, confirmed by the trust of customers who continue to contact us for many years.",
+        "yourApplication": "Submit your application"
+    },
+    "about": {
+        "title": "About the company",
+        "description": "We offer our clients a range of high-quality cargo transportation services to almost anywhere in the CIS countries, Asia, the Middle East and Eastern Europe:",
+        "railway": "railway transportation ",
+        "auto": "road transport",
+        "sea": "sea transportation",
+        "avia": "air transportation",
+        "footer": "One of the advantages of the ES “Dana Pikir” is its own fleet of railway wagons, with a capacity of 161 cubic meters."
+    },
+    "values": {
+        "title": "Our Values",
+        "clients": "Customer Trust",
+        "clientsDescription": "We are constantly improving, offering the best quality of services, service and accessibility",
+        "reliability": "Reliability",
+        "reliabilityDescription": "The Company has a strong position in the cargo transportation market and an impeccable business reputation",
+        "versatility": "Versatility",
+        "versatilityDescription": "We work in various fields of cargo transportation, which allows us to provide services of any level of complexity",
+        "innovativeness": "Innovativeness",
+        "innovativenessDescription": "We develop and combine the most modern technologies, achieving ensuring the highest quality of all services provided",
+        "professionalism": "Professionalism of our employees",
+        "professionalismDescription": "We appreciate the contribution of each person to the development of the company. Our employees are confident in the future"
+    },
+    "advantages": {
+        "title": "Our advantages",
+        "pointOne": "Availability of its own fleet of wagons",
+        "pointTwo": "Optimal prices and delivery times",
+        "pointThree": "A wide range of services provided",
+        "pointFour": "Guaranteed reliability of transportation",
+        "pointFive": "High level of service",
+        "pointSix": "Finally, responsible attitude towards You and your cargo"
+    },
+    "services": {
+        "title": "Services",
+        "description": "Package of shipping and forwarding services",
+        "pointOne": "• Payment of export-import and transit tariffs on the railways of the CIS and Baltic countries",
+        "pointTwo": "• Calculation of tariff rates",
+        "pointThree": "• Rental of wagons",
+        "pointFour": "• Organization of transportation of special cargo (special equipment, etc.) at all stages of transportation (placement schemes on rolling stock, coordination along the entire route of the cargo, securing the load on rolling stock, etc.)",
+        "pointFive": "• Consulting on the registration of railway documentation",
+        "pointSix": "• Choosing the optimal route",
+        "pointSeven": "• Coordination of basic and additional plans",
+        "pointEight": "• Tracking of cargo in transit",
+        "pointNine": "• Consulting on the organization of transportatio",
+        "pointTen": "• Organization of cargo security services from the departure station to the destination station, including visa support for escorts"
+    },
+    "request": {
+        "description": "Our specialists are always ready to answer any customer questions related to the organization of cargo transportation. To find out the cost of transportation - please download the application from the link below and send us the completed one to our email address.",
+        "button": "Download form"
+    },
+    "footer": {
+        "contacts": "Контакты",
+        "rights": "© All rights reserved."
+    },
+    "requestForm": {
+        "title": "Application",
+        "senderName": "Contact person",
+        "senderNamePlaceholder": "enter a name",
+        "senderMail": "Email",
+        "senderMailPlaceholder": "enter your email",
+        "senderPhoneFax": "Tel/Fax",
+        "senderPhoneFaxPlaceholder": "phone",
+        "station": "Departure station",
+        "stationPlaceholder": "enter a name",
+        "stationCode": "Station Code",
+        "stationCodePlaceholder": "enter code",
+        "stationEnd": "Destination station",
+        "stationEndPlaceholder": "enter a title",
+        "stationEndCode": "Station Code",
+        "stationEndCodePlaceholder": "enter code",
+        "codeCargo": "GNG cargo code",
+        "codeCargoPlaceholder": "enter code",
+        "position": "Position on ETSNG",
+        "positionPlaceholder": "enter a title",
+        "nameCargo": "Name",
+        "nameCargoPlaceholder": "enter a name",
+        "loadingContainer": "Loading a wagon/container",
+        "loadingContainerPlaceholder": "enter a value",
+        "volumeToSend": "Scheduled send volume",
+        "volumeToSendPlaceholder": "enter a value",
+        "specialConditions": "Special Conditions",
+        "specialConditionsPlaceholder": "enter conditions",
+        "negabarDegree": "Negabar degree.",
+        "negabarDegreePlaceholder": "enter a value",
+        "specialWagons": "In specialized wagons",
+        "specialWagonsPlaceholder": "enter a value",
+        "containers": "Containers",
+        "containersPlaceholder": "enter a value",
+        "send": "Send"
+    },
+    "mail": {
+        "theme": "Mail from Danapikir.com"
+    }
+}

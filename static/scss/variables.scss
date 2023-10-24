@@ -1,0 +1,46 @@
+//app-colors
+$app-white: #ffffff;
+$app-black: #202020;
+$app-gray: #1E212C;
+$app-light-gray: #787A80;
+$app-lighter-gray: #F4F5F6;
+$app-input-gray: #D7DADD;
+$app-input-placeholder-gray: #9A9CA5;
+$app-brand-main: #E15929;
+$app-brand-secondary: #007976;
+$app-gray-for-input-title: #424551;
+
+
+
+//app-breakpoints
+$desktop-xl: 1920px;
+$desktop-lg: 1600px;
+$desktop-m: 1440px;
+$desktop-s: 1279px;
+$tablet-l: 1024px;
+$tablet-m: 768px;
+$phone-l: 640px;
+$phone-m: 420px;
+$phone-s: 320px;
+
+//app-container
+$app-container: 1200px;
+
+
+@mixin max($media) {
+    @media only screen and (max-width: $media) {
+      @content;
+    }
+  }
+  
+@mixin min($media) {
+  @media only screen and (min-width: $media) {
+    @content;
+  }
+}
+
+@mixin minmax($min, $max) {
+  @media only screen and (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}

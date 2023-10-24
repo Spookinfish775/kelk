@@ -1,0 +1,115 @@
+{
+    "appHeader": {
+        "appMenu": {
+            "aboutCompany": "Kompaniýa barada",
+            "services": "Hyzmatlar",
+            "application": "Arza",
+            "contacts": "Habarlaşmak üçin maglumatlar"
+        },
+        "contactUs": "Biz bilen habarlaşyň",
+        "contactUsNumber": "+993 12 754177",
+        "mailUs": "Bize ýazyň",
+        "langList": {
+            "title": "Dil saýlaň",
+            "en": "English",
+            "ru": "Русский",
+            "tm": "Türkmen"
+        }
+    },
+    "greeting": {
+        "title": "“Dana Pikir” Hojalyk jemgyýeti Türkmenistanyň ýük daşamak bazarynda öňdebaryjy kompaniýalardan biridir. Kompaniýanyň wezipesi – nyrh döreýiş we edilýän hyzmatlaryň hilinde bäsdeşlige ukyplylykdyr, ol bolsa köp ýyllap bize ýüz tutmagy dowam edýän müşderileriň ynamy bilen tassyklanylýar.",
+        "yourApplication": "Arzaňyzy iberiň"
+    },
+    "about": {
+        "title": "Kompaniýa barada",
+        "description": "Biz GDA ýurtlarynyň, Aziýanyň, Ýakyn Gündogaryň we Gündogar Ýewropanyň islendik ýurduna ýükleri daşamak üçin müşderilerimize ýokary hilli hyzmatlaryň toplumyny hödürleýäris:",
+        "railway": "demir ýol gatnawy",
+        "auto": "ýol ulaglary",
+        "sea": "deňiz ýükleri",
+        "avia": "howa gatnawy",
+        "footer": "“Dana Pikir” Hojalyk jemgyýetiniň artykmaçlyklaryndan biri – göwrümi 161 kub metre deň bolan demir ýol wagonlarynyň bolmagydyr."
+    },
+    "values": {
+        "title": "Gymmatlyklarymyz",
+        "clients": "Müşderileriň ynamy",
+        "clientsDescription": "Hyzmatlaryň, hyzmat etmegiň we elýeterliligiň iň gowy hilini hödürläp, yzygiderli kämilleşýäris",
+        "reliability": "Ygtybarlylyk",
+        "reliabilityDescription": "Kompaniýa ýuk daşamak bazarynda berk orny eýeleýär we birkemsiz işewür abraýyna eýedir",
+        "versatility": "Köpdürlüligi",
+        "versatilityDescription": "Biz ýük daşamagyň dürli ugurlarynda işleýäris, bu bolsa islendik çylşyrymly derejedäki hyzmatlary etmäge mümkinçilik berýär",
+        "innovativeness": "Innowasiýalylyk",
+        "innovativenessDescription": "Biz iň döwrebap tehnologiýalary işläp ösdürýäris we birleşdirýäris, edilýän ähli hyzmatlaryň ýokary hilini üpjün etmegi gazanýarys",
+        "professionalism": "Işgärleriň hünär derejesi",
+        "professionalismDescription": "Her bir adamyň kompaniýanyň ösüşine goşan goşandyna ýokary baha berýäris. Işgärlerimiz öz geljegine ynanýar"
+    },
+    "advantages": {
+        "title": "Artykmaçlyklarymyz",
+        "pointOne": "Hususy wagonlarymyzyň bolmagy",
+        "pointTwo": "Iň amatly bahalar we gowşurmak möhleti",
+        "pointThree": "Edilýän hyzmatlaryň giň sanawy",
+        "pointFour": "Daşamalaryň kepillendirilen ygtybarlylygy",
+        "pointFive": "Hyzmatyň ýokary derejesi",
+        "pointSix": "Size we ýüküňize jogapkärçilikli çemeleşme"
+    },
+    "services": {
+        "title": "Hyzmatlar",
+        "description": "Ýük daşamak we ekspedirlemek üçin hyzmatlar bukjasy",
+        "pointOne": "• GDA we Baltika ýurtlarynyň demir ýollary boýunça eksport-import we tranzit nyrhlaryny tölemek",
+        "pointTwo": "• Nyrh görnüşlerini hasaplamak",
+        "pointThree": "• Wagonlary kärendä bermek",
+        "pointFour": "• Daşamagyň ähli tapgyrlarynda ýörite ýükleri (ýörite tehnikany we ş.m.) daşamagy guramak (hereketlendiriji düzüme ýerleşdirmegiň shemalary, ýüküň ähli ugry boýunça ýüki ylalaşmak, hereketlendiriji düzüme ýükleri berkitmek we ş.m.)",
+        "pointFive": "• Demir ýol resminamalaryny taýýarlamak boýunça maslahat bermek",
+        "pointSix": "• Iň amatly ugry saýlamak",
+        "pointSeven": "• Esasy we goşmaça meýilnamalary ylalaşmak",
+        "pointEight": "• Ýoldaky ýükleri yzarlamak",
+        "pointNine": "• Daşamalary guramak meseleleri boýunça maslahat bermek",
+        "pointTen": "• Gidýän stansiýadan barmaly stansiýa çenli ýüki goramak boýunça hyzmatlary guramak, şol sanda ýanynda gidýän adamlara wiza goldawyny bermek"
+    },
+    "request": {
+        "description": "Hünärmenlerimiz ýük daşamagy guramak bilen baglanyşykly müşderileriň soraglaryna hemişe jogap bermäge taýyndyr. Daşamagyň bahasyny bilmek üçin programmany aşakdaky baglanyşykdan göçürip alyň we doldurylanlary e-poçta adresimize iberiň.",
+        "button": "Forma göçürip al"
+    },
+    "footer": {
+        "contacts": "Habarlaşmak üçin maglumatlar",
+        "rights": "© hukuklar goralan."
+    },
+    "requestForm": {
+        "title": "Programma",
+        "senderName": "Habarlaşýan adam",
+        "senderNamePlaceholder": "at giriziň",
+        "senderMail": "E-poçta",
+        "senderMailPlaceholder": "e-poçtaňyzy giriziň",
+        "senderPhoneFax": "Tel / Faks",
+        "senderPhoneFaxPlaceholder": "telefon",
+        "station": "Gidiş stansiýasy",
+        "stationPlaceholder": "at giriziň",
+        "stationCode": "Stansiýa kody",
+        "stationCodePlaceholder": "kod giriziň",
+        "stationEnd": "Niýetlenen stansiýa",
+        "stationEndPlaceholder": "at giriziň",
+        "stationEndCode": "Stansiýa kody",
+        "stationEndCodePlaceholder": "kod giriziň",
+        "codeCargo": "GNG ýük kody",
+        "codeCargoPlaceholder": "kod giriziň",
+        "position": "ETSNG-de pozisiýa",
+        "positionPlaceholder": "at giriziň",
+        "nameCargo": "Ady",
+        "nameCargoPlaceholder": "at giriziň",
+        "loadingContainer": "Wagon / konteýner ýüklemek",
+        "loadingContainerPlaceholder": "iş ýüki giriziň",
+        "volumeToSend": "Meýilleşdirilen iberiş göwrümi",
+        "volumeToSendPlaceholder": "iş ýüki giriziň",
+        "specialConditions": "Ýörite şertler",
+        "specialConditionsPlaceholder": "şertleri giriziň",
+        "negabarDegree": "Artykmaç ýük derejesi",
+        "negabarDegreePlaceholder": "iş ýüki giriziň",
+        "specialWagons": "Ýöriteleşdirilen wagonlarda",
+        "specialWagonsPlaceholder": "iş ýüki giriziň",
+        "containers": "Konteýnerler",
+        "containersPlaceholder": "iş ýüki giriziň",
+        "send": "Iber"
+    },
+    "mail": {
+        "theme": "Danapikir.com-dan poçta"
+    }
+}
