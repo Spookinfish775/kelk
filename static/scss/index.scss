@@ -1,52 +1,58 @@
 @import "./variables.scss";
 @import "./fonts.scss";
 
-
-
-
 html,
 body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 * {
-    cursor: default;
-    scroll-behavior: smooth !important;
-    font-variant-ligatures: none !important;
-    font-display: swap;
-    // scrollbar-gutter: stable;  
-    &::-webkit-scrollbar{
-      width: 10px;
-      background-color: $app-brand-secondary;
-    }
-    &::-webkit-scrollbar-thumb {
-      border-radius: 30px;
-      background-color: rgba($color: $app-brand-main, $alpha: 1);
-      width: 10px;
-      border-radius: 0;
-      cursor: pointer !important;
-    }
+  cursor: default;
+  scroll-behavior: smooth !important;
+  font-variant-ligatures: none !important;
+  font-display: swap;
+  // scrollbar-gutter: stable;
+  &::-webkit-scrollbar {
+    width: 10px;
+    background-color: $app-brand-secondary;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 30px;
+    background-color: rgba($color: $app-brand-main, $alpha: 1);
+    width: 10px;
+    border-radius: 0;
+    cursor: pointer !important;
+  }
 }
 
 ul {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 a {
-    color: $app-white !important;
-    text-decoration: none !important;
+  color: $app-white !important;
+  text-decoration: none !important;
 }
- 
+
 img::selection,
 div::selection,
 span::selection,
 p::selection {
-    user-select: none;
+  user-select: none;
 }
-h1,h2,h3,h4,h5,h6,p,span,a,li{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a,
+li {
   margin: 0;
   font-family: "Ubuntu";
   color: $app-white;

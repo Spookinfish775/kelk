@@ -117,7 +117,7 @@ export default {
     closeMenu() {
       this.$refs.mobileMenu.transformMenu();
       setTimeout(() => {
-        this.menuOpened = !this.menuOpened;
+        this.menuOpened = false;
       }, 10);
     },
   },
